@@ -21,4 +21,4 @@ This project aims to optimize business performance for a pizza restaurant by ana
 - **Sales Mix:** Analysis proved that "Large" pizzas contribute the highest share of total revenue, guiding inventory planning.
 
 ### 🔗 Links
-- [Interactive Tableau Dashboard]([PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/tunahan.oral/viz/PizzaSalesAnalytics-SQLTableauPortfolioProject/Dashboard1))
+- [Interactive Tableau Dashboard]([https://public.tableau.com/app/profile/tunahan.oral/viz/PizzaSalesAnalytics-SQLTableauPortfolioProject/Dashboard1])

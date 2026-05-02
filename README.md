@@ -2,7 +2,7 @@
 
 ### 📊 Project Overview
 Bu proje, bir pizza restoranının satış verilerini kullanarak iş performansını optimize etmeyi amaçlar. Ham veriler SQL ile işlenmiş ve Tableau üzerinde interaktif bir dashboard'a dönüştürülmüştür.
-![Pizza Sales Dashboard](Screenshots/pizza_dashboard.png)
+![Pizza Sales Dashboard](Screenshots/pizza_dashboard.PNG)
 
 ### 🛠️ Tech Stack
 - **Database:** SQL (PostgreSQL/MySQL)
